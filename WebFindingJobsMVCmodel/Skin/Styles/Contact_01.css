@@ -1,0 +1,120 @@
+#section1{padding-top:30px;padding-bottom:60px;}
+#section1 .left{float:left;width:200px;padding-left:5px; margin-left: 10px}
+#section1 .left .photo{border:3px solid #ccc;width:195px;height:243px;margin-bottom:30px;}
+#section1 .left .photo img{width:189px;height:237px;}
+#section1 .left .newsletter{background:url(../Images/letter.jpg) no-repeat left top;padding-top:115px;}
+#section1 .left .newsletter h3{margin:0;}
+#section1 .left .newsletter h3 a{font-size:16px;font-weight:bold;}
+#section1 .left .newsletter p{font-size:12px;color:#111;font-weight:bold;margin:0 0 5px;}
+#section1 .left .newsletter span{display:inline-block;margin-right:20px;}
+#section1 .left .newsletter span a{font-size:12px;text-decoration:underline;font-weight:bold;}
+
+#section1 .right{float:right;width:902px;margin-right: 165px!important}
+
+#section1 .right > ul.thumbnails{list-style:none;margin:0;padding:0;}
+#section1 .right > ul.thumbnails > li{border:1px solid #e5e5e5;margin-bottom:12px;padding:10px;}
+#section1 .right > ul.thumbnails > li h3{border-bottom:1px solid #e5e5e5;margin:0;margin:-10px -10px 10px -10px;background:#f4f4f4;font-size:16px;text-transform:uppercase;font-weight:bold;padding:10px;}
+#section1 .right > ul.thumbnails > li h3 a{font-size:16px;text-transform:uppercase;font-weight:bold;color:#111;}
+#section1 .right > ul.thumbnails > li p{margin:0 0 5px;}
+
+#section1 .right .table td{border-top:0 none;}
+#section1 .right .table td ul{list-style:none;margin:0;padding:0;}
+#section1 .right .table td ul li{font-weight:bold;font-size:12px;color:#777;margin-bottom:10px;line-height:1;}
+#section1 .right .table td ul li.nav-header{color:#000;padding-left:20px;margin-top:30px;margin-bottom:10px;}
+#section1 .right .table td ul li:first-child.nav-header{margin-top:0;}
+
+#section1 .right .table td ul li input[type="checkbox"]{margin-right:5px;}
+#section1 .right .table td ul li span{color:#0896ff;}
+
+#section1 .right .form-search{width:581px;}
+#section1 .right .form-control{border-radius:0;}
+#section1 .right .control-label{float:left;width:15%;padding-top:8px;font-weight:normal;color:#000;}
+#section1 .right .control-label.label1{width:25%;}
+#section1 .right select.form-control, #section1 .right input.form-control{float:right;width:75%;}
+#section1 .right .form-search .button{margin:30px 0;}
+
+#section1 .right > ul.thumbnails .info{width:748px;margin-left:60px;padding-bottom:50px;}
+#section1 .right > ul.thumbnails .info > div.clearfix > .pull-left{width:200px;text-align:right;}
+#section1 .right > ul.thumbnails .info .pull-left label{font-size:12px;}
+#section1 .right > ul.thumbnails .info .pull-left label span{color:#8cceff;}
+
+#section1 .right > ul.thumbnails .info > div.clearfix > .pull-right{width:540px;}
+#section1 .right > ul.thumbnails .info .pull-right .select1{width:280px;}
+#section1 .right > ul.thumbnails .info .pull-right .select2{width:220px;}
+#section1 .right > ul.thumbnails .info .pull-right .txt1{width:325px;}
+#section1 .right > ul.thumbnails .info .pull-right .txt2{width:100%;}
+#section1 .right > ul.thumbnails .info >div.clearfix{margin-bottom:15px;}
+#section1 .right > ul.thumbnails .info input, .info select{padding:5px;}
+#section1 .right > ul.thumbnails .info .pull-right .btn-default{background:#eee;color:#000;}
+#section1 .right > ul.thumbnails .info .text{float:right;width:600px;}
+#section1 .right > ul.thumbnails .info .avt{float:left;width:84px;text-align:center;}
+#section1 .right > ul.thumbnails .info .avt a{text-decoration:underline;}
+#section1 .right > ul.thumbnails .info .avt img{width:84px;height:111px;margin-bottom:10px;}
+#section1 .right > ul.thumbnails > li p a {display:inline-table;margin-right:10px;}
+#section1 .right > ul.thumbnails > li p a.command {color:#f59c11;font-size:12px;}
+#section1 .right > ul.thumbnails > li p a:first-child {margin-right:3px;}
+#section1 .right > ul.thumbnails > li p span.resume_wrap {margin-right:40px;}
+#section1 .right > ul.thumbnails > li p span.published {display:inline-table;color:#888;font-size:13px;}
+#section1 .right > ul.thumbnails > li .nav-tabs{border-bottom:none;padding-left:40px;margin-top:20px;}
+#section1 .right > ul.thumbnails > li .nav-tabs > li > a{border:none;border-radius:0;}
+#section1 .right > ul.thumbnails > li .nav-tabs > li > a span{display:block;border:2px solid #0896ff;width:42px;height:42px;text-align:center;line-height:40px;float:left;margin-right:10px;margin-top:-10px;}
+#section1 .right > ul.thumbnails > li .nav-tabs > li.active > a span{background:#000;color:#fff;}
+#section1 .right > ul.thumbnails > li .nav > li > a:hover,
+#section1 .right > ul.thumbnails > li .nav > li > a:focus {
+  text-decoration: none;
+  background-color:#fff;
+}
+
+#b1 h4, #b2 h4, #b3 h4{font-size:13px;border-bottom:1px solid #ddd;padding:5px;font-weight:bold;margin:0 0 30px;}
+
+#b2 .text h5, #b3 .text h5{font-size:13px;border-bottom:1px solid #ddd;padding:5px;font-weight:bold;margin:0;}
+#b2 .box, #b3 .box{margin-bottom:45px;}
+#b2 .box h5, #b3 .box h5{font-size:13px;border-bottom:1px solid #ddd;padding:5px;font-weight:bold;margin:0 0 20px;}
+#b2 .box .btn-default, #b3 .box .btn-default{background:#eee;color:#000;}
+#b3 .box h5 span{font-weight:normal;}
+#b3 .box .table{width:50%;}
+#b3 .box .table td{font-size:12px;padding:0 5px;}
+#b3 .box .table td span{color:#0896ff;font-weight:bold;}
+#b3 .box p{font-size:12px;}
+ul.lists {
+    list-style: none outside none;
+    margin: 0;
+    padding: 10px 0;
+}
+ul.lists li {
+    margin: 0 0 35px;
+}
+ul.lists li h4 {
+    font-weight: bold;
+    margin: 0 0 5px;
+}
+ul.lists li h4 a {
+    color: #222;
+}
+ul.lists li p {
+    line-height: 1.5;
+    margin: 0;
+}
+ul.lists li p.time {
+    color: #0896ff;
+    font-size:12px;
+    font-weight:bold;
+}
+ul.lists li p.name {
+    color: #111;
+    font-size: 13px;
+    font-weight:bold;
+}
+ul.lists li p.add {
+    color:#cecece;
+    font-size:12px;
+    font-weight:bold;
+}
+#section3 {padding-bottom:185px;overflow:hidden}
+#section3 .avatar {text-align:center}
+#section3 .avatar img {display:block;width:189px;height:237px;border:3px solid #ccc}
+#section3 .form-horizontal {width:80%;}
+#section3 .form-horizontal label.error {color:red;font-weight:normal;font-size:12px;}
+
+
+

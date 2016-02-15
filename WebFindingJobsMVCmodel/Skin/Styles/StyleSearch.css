@@ -1,0 +1,22 @@
+﻿.search{padding-top:190px;padding-bottom:250px;}
+.search .logo{margin-bottom:15px;}
+.search .logo p{margin:0 0 9px; font-family: 'Kaushan Script', cursive;
+    font-weight: 500;font-size: 25px}
+
+.search .form-search{width:581px;margin:0 auto;}
+.search .form-search .btn{border-radius:2px;font-size:13px;font-weight:600;}
+.search .form-search .btn-b{padding:6px 40px;}
+.search .form-search .btn-default{background:#eee;color:#000;}
+.search_03{position:relative;height:77px;padding-top:20px;}
+.search_03:after {
+	background:#f8f8f8;
+	border-bottom:1px solid #e8e8e8;	
+    content: "";
+    height: 100%;
+    left: -50%;
+    position: absolute;
+    top: 0;
+    width: 200%;
+    z-index: 0;
+}
+

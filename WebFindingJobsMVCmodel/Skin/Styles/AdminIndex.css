@@ -1,0 +1,25 @@
+﻿@media all and (min-width: 320px) { .theme-default { -webkit-animation: 1s fadeIn; animation: 1s fadeIn; position: relative; }
+  .theme-default .nivoSlider { box-shadow: none !important; margin-bottom: 0px !important; }
+  .theme-default .nivo-directionNav a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: transparent url("/Images/arrows.png") no-repeat scroll 0% 0%;
+    text-indent: -9999px;
+    border: 0px none;
+    opacity: 0;
+    transition: all 200ms ease-in-out 0s;
+}
+  .nivo-controlNav { position: absolute; bottom: 5%; z-index: 9999; left: 0px; right: 0px; } }
+.main-bottom{
+	width: 100%;
+	background-color: #055192;
+	color: #FFF;
+	padding: 20px 0px 0px 10px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.main-bottom .text-st{
+	color: #FFF;
+}

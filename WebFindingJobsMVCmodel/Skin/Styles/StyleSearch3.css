@@ -1,0 +1,44 @@
+﻿.search_03{position:relative;height:77px;padding-top:20px;}
+.search_03:after {
+	background:#f8f8f8;
+	border-bottom:1px solid #e8e8e8;	
+    content: "";
+    height: 100%;
+    left: -50%;
+    position: absolute;
+    top: 0;
+    width: 200%;
+    z-index: 0;
+}
+.search_03 div.clearfix{z-index:1;position:absolute;}
+
+.search_03 .logo{width:186px;margin-right:20px;}
+.search_03 .logo img {width:186px;}
+.search_03 .logo h1{margin:0;}
+
+.search_03 .form-search{width:910px;}
+.search_03 .form-control{border-radius:0;width:580px;float:left;}
+.search_03 .form-search .btn{border-radius:0px;font-size:14px;font-weight:normal;margin-left:10px;}
+.search_03 .form-search .btn-default{background:#eee;color:#000;}
+.search_03 .form-search .btn-b{padding:6px 40px;}
+#menu{position:relative;height:37px;}
+#menu:after {
+	border-bottom:1px solid #e8e8e8;
+    content: "";
+    height: 100%;
+    left: -50%;
+    position: absolute;
+    top: 0;
+    width: 200%;
+    z-index: 0;
+}
+
+#menu ul{list-style:none;margin:0;padding:0;z-index:1;position:absolute;}
+
+#menu .navbar-nav > li > a{color:#111;padding-bottom:6px;padding-top:10px;}
+#menu .navbar-nav > li:first-child > a{padding-left:0;}
+#menu .nav .caret{border-bottom-color:#cecece;border-top-color:#cecece;}
+#menu .navbar-nav > li > a:hover, #menu .navbar-nav > li > a:focus{background:none;}
+.dropdown-menu {max-height: 250px;overflow-y: auto;}
+div.logo{background-size:186px !important;height:45px;}
+.img-close {background:url('../Images/close.png') top left transparent;position: absolute;top: 9px;width: 16px;height: 16px;right: 338px;}

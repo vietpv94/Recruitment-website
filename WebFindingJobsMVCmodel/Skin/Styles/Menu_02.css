@@ -1,0 +1,16 @@
+#menu2{position:relative;height:41px;}
+#menu2:after {
+	border-bottom:1px solid #e8e8e8;
+    content: "";
+    height: 100%;
+    left: -50%;
+    position: absolute;
+    top: 0;
+    width: 200%;
+    z-index: 0;
+}
+
+#menu2 ul{list-style:none;margin:0;padding:0;z-index:1;position:absolute;}
+#menu2 .nav-tabs{border:none;}
+#menu2 .nav-tabs > li{margin-bottom:0;}
+#menu2 .nav-tabs > li > a{border:none;border-radius:0;}

@@ -1,0 +1,26 @@
+.register1{padding-top:73px;padding-bottom:516px;}
+.register1 .pull-left{width:695px;}
+.register1 .pull-left .box{background:url(../Images/clock.jpg) no-repeat 10px top;padding-left:228px;height:260px;padding-top:40px;margin-top:60px;}
+.register1 .pull-left .box p {margin:9px 0}
+
+
+.register1 .pull-right{width:360px;}
+.register1 .pull-right .login-form, .register1 .pull-right .forgot-form{border:1px solid #e5e5e5;background:#f1f1f1;padding:5px 16px 20px 16px;}
+.register1 .pull-right .login-form h2, .register1 .pull-right .forgot-form h2{color:#0896ff;background:url(../Images/lock.jpg) no-repeat left top;font-size:16px;text-transform:uppercase;padding-left:30px;margin:0 0 25px 0;height:22px;line-height:30px;font-weight:bold;}
+.register1 .pull-right .login-form label, .register1 .pull-right .forgot-form label{color:#333;}
+.register1 .pull-right .login-form label.error, .register1 .pull-right .forgot-form label.error {color:red;display:block;font-size:12px;font-weight:normal;height:20px;line-height:22px;}
+.register1 .pull-right .login-form .btn-primary{background:#0896ff;}
+.register1 .pull-right .login-form .checkbox{margin-bottom:0;}
+.register1 .pull-right .login-form .forgetpass{text-decoration:underline;}
+
+.register1 .pull-right .login-with{border:1px solid #e5e5e5;padding:10px 20px;margin-top:8px;}
+.register1 .pull-right .login-with h4{font-size:13px;color:#333;font-weight:bold;margin:0 0 10px 0;}
+.register1 .pull-right .login-with ul{list-style:none;margin:0;padding:0;display:table;width:100%;}
+.register1 .pull-right .login-with ul li{display:table-cell;line-height:24px;height:24px;}
+.register1 .pull-right .login-with ul li a{color:#333;font-size:13px;}
+.register1 .pull-right .login-with ul li.fb{background:url(../Images/icon-fb.jpg) no-repeat left top;padding-left:35px;}
+.register1 .pull-right .login-with ul li.gg{background:url(../Images/icon-g.jpg) no-repeat left top;padding-left:35px;}
+.register1 .pull-right .login-with ul li.in{background:url(../Images/icon-i.jpg) no-repeat left top;padding-left:35px;}
+
+.forgot-part {display:none;}
+.forgot-part a {display:block;margin-top:5px;}
